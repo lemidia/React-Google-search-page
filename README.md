@@ -2,6 +2,10 @@
 
 React와 Google Custom Search API를 이용한 Google Search Application 입니다.
 
+![Alt text](/src/images/google-search1.png){: width="600px" .align-center}
+
+![Alt text](/src/images/google-search2.png){: width="600px" .align-center}
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## 적용된 기술
@@ -14,7 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### How to Run
 
-1. Terminal을 열고 npm install 명령으로 dependency를 설치해줍니다.
+1. Terminal을 열고 npm install 명령으로 dependency를 설치해줍니다. (사전에 node.js가 설치되어 있어야 한다.)
 
 2. /src 폴더 밑에 아래와 같이 keys.js 파일을 만들고, "YOUR_API_KEY"에 자신의 google custom search api의 key들을 넣습니다.
 
