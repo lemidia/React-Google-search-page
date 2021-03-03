@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Google Custom Search API
 - Custom Hook for fetching search data
 
-### How to Run
+## How to Run
 
 1. Terminal을 열고 npm install 명령으로 dependency를 설치해줍니다. (사전에 node.js가 설치되어 있어야 한다.)
 
@@ -32,6 +32,8 @@ export default API_KEY;
 ```
 
 3. Local에서 실행하기 위해 Terminal에 npm start를 입력합니다.
+
+---
 
 ### `npm start`
 
