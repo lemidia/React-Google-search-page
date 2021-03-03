@@ -1,10 +1,33 @@
-# Getting Started with Create React App
+## Google Search Application using React.js and Google Custom Search API
+
+React와 Google Custom Search API를 이용한 Google Search Application 입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 적용된 기술
 
-In the project directory, you can run:
+- React Context API (Redux)
+- Material UI
+- React Router
+- Google Custom Search API
+- Custom Hook for fetching search data
+
+### How to Run
+
+1. Terminal을 열고 npm install 명령으로 dependency를 설치해줍니다.
+
+2. /src 폴더 밑에 아래와 같이 keys.js 파일을 만들고, "YOUR_API_KEY"에 자신의 google custom search api의 key들을 넣습니다.
+
+```javascript
+// keys.js
+export const API_KEY = "YOUR_API_KEY";
+
+export const CONTEXT_KEY = "YOUR_API_KEY";
+
+export default API_KEY;
+```
+
+3. Local에서 실행하기 위해 Terminal에 npm start를 입력합니다.
 
 ### `npm start`
 
