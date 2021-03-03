@@ -2,9 +2,9 @@
 
 React와 Google Custom Search API를 이용한 Google Search Application 입니다.
 
-![Alt text](/src/images/google-search1.png){: width="600px" .align-center}
+![Alt text](/src/images/google-search1.png)
 
-![Alt text](/src/images/google-search2.png){: width="600px" .align-center}
+![Alt text](/src/images/google-search2.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
